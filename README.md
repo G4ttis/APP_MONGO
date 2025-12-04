@@ -1,3 +1,5 @@
+Trabalho de Matheus Gattis e Victor Alcenio Martins Loh
+
 INSTRUÇÕES PARA COMPILAÇÃO E EXECUÇÃO
 ========================================
 
